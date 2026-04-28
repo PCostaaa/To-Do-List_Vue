@@ -2,6 +2,8 @@
 
 A beautiful, modern to-do list application built with **Vue 3** and **Vite** featuring an attractive UI with smooth animations and a responsive design.
 
+![App Screenshot](./assets/ToDoList.png)
+
 ## ✨ Features
 
 - ✅ **Add Tasks** - Create new tasks with a simple input
